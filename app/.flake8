@@ -1,0 +1,7 @@
+[flake8]
+# * Exclude the following lines from Linting
+exclude =
+    migrations,
+    __pycache__,
+    manage.py,
+    settings,py
